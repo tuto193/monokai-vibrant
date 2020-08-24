@@ -122,7 +122,7 @@
       ],
       "settings": {
 		"foreground": "#FF3F4F",
-		"fontStyle": "italic"
+		"fontStyle": "none"
       }
     },
     {
@@ -130,7 +130,7 @@
       "scope": "keyword.operator",
       "settings": {
 		"foreground": "#FF3F4F",
-		"fontStyle": "italic"
+		"fontStyle": "none"
       }
     },
     {
