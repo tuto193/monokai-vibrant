@@ -1,20 +1,9 @@
 # Change Log
-All notable changes to the "monokai-vibrant" extension will be documented in this file.
 
-## 0.5.0
-- Replaced yellow bar at bottom with a nice dark one per relentless request :)
+All notable changes to the "monokai-vibrant-operator" extension will be documented in this file.
 
-## 0.4.0
-- Added color swatch image to README
-
-## 0.3.0
-- Added LICENSE (MIT)
-- More updates to package.json
-- Added Marketplace badges to README
-
-## 0.2.0
-- Added git repository
-- Updated package.json
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
 - Initial release
