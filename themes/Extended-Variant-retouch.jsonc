@@ -1195,56 +1195,56 @@
 				"meta.paragraph.markdown meta.hard-line-break.markdown"
 			],
 			"settings": {
-				"background": "#948AE3"
+				// "background": "#948AE3"
 			}
 		},
 		{
 			"scope": "region.redish",
 			"settings": {
 				"foreground": "#FC618D",
-				"background": "#FC618D59"
+				// "background": "#FC618D59"
 			}
 		},
 		{
 			"scope": "region.orangish",
 			"settings": {
 				"foreground": "#FD9353",
-				"background": "#FD935359"
+				// "background": "#FD935359"
 			}
 		},
 		{
 			"scope": "region.yellowish",
 			"settings": {
 				"foreground": "#FCE566",
-				"background": "#FCE56659"
+				// "background": "#FCE56659"
 			}
 		},
 		{
 			"scope": "region.greenish",
 			"settings": {
 				"foreground": "#7BD88F",
-				"background": "#7BD88F59"
+				// "background": "#7BD88F59"
 			}
 		},
 		{
 			"scope": "region.bluish",
 			"settings": {
 				"foreground": "#5AD4E6",
-				"background": "#5AD4E659"
+				// "background": "#5AD4E659"
 			}
 		},
 		{
 			"scope": "region.purplish",
 			"settings": {
 				"foreground": "#948AE3",
-				"background": "#948AE359"
+				// "background": "#948AE359"
 			}
 		},
 		{
 			"scope": "region.pinkish",
 			"settings": {
 				"foreground": "#FC618D",
-				"background": "#FC618D59"
+				// "background": "#FC618D59"
 			}
 		},
 		{
@@ -1345,14 +1345,14 @@
 			"scope": "storage.type.extends",
 			"settings": {
 				"foreground": "#FC618D",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.function.arrow",
 			"settings": {
 				"foreground": "#FC618D",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"scope": "support.type.property-name",
 			"settings": {
 				"foreground": "#F7F1FF",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
