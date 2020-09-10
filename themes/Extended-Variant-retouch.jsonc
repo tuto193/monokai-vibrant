@@ -450,13 +450,13 @@
 	"tokenColors": [
 		{
 			"scope": [
-				"comment",
 				"comment keyword",
 				"comment markup.underline.link",
-				"comment string",
-				"comment punctuation.definition",
 				"comment punctuation",
-				"comment text"
+				"comment punctuation.definition",
+				"comment string",
+				"comment text",
+				"comment",
 			],
 			"settings": {
 				"foreground": "#69676C",
