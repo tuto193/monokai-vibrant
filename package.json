@@ -2,8 +2,8 @@
     "name": "monokai-vibrant-operator",
     "displayName": "Monokai Vibrant (operator)",
     "repository": "https://github.com/tuto193/monokai-vibrant",
-    "description": "Fork of Monokai Vibrant without italiziced operators for those with OCD",
-    "version": "0.0.2",
+    "description": "Fork of Monokai Vibrant without italicized operators for those with OCD",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.48.0"
     },
