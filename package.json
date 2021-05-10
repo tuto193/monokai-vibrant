@@ -2,10 +2,10 @@
     "name": "monokai-vibrant",
     "displayName": "Monokai Vibrant",
     "description": "A very dark and overly vibrant Monokai theme with italicized keywords and operators.",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "publisher": "tuto193",
     "icon": "images/icon.png",
-    "author": "Dylan Marsh <dylan@knoware.co>",
+    "author": "Carlos A. Parra F.<carlos.a.parra.f@gmail.com>",
     "license": "MIT",
     "galleryBanner": {
         "color": "#F5B800"
