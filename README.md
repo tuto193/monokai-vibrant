@@ -1,11 +1,11 @@
 # Monokai Vibrant Theme
 ### A very dark and overly vibrant Monokai theme with italicized keywords and operators.
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)
+[![Version](https://vsmarketplacebadge.apphb.com/version/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
 
-![Monokai Vibrant JavaScript Example](https://hostr.co/file/970/VTzyLzofPlw9/monokai-vibrant-ss.png)
+![Monokai Vibrant C Example](https://hostr.co/file/970/bnfuo9IDAr8D/VSCODE.png)
 
 * Super dark and rich editor color scheme
 * Punched out colors for better readability
@@ -15,3 +15,5 @@
 Don't forget to review on the marketplace!
 
 **Enjoy!**
+
+Based on the original one by [s3gf4ult](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)
