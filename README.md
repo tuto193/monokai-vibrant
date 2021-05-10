@@ -1,9 +1,9 @@
 # Monokai Vibrant Theme
 ### A very dark and overly vibrant Monokai theme with italicized keywords and operators.
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
+[![Version](https://vsmarketplacebadge.apphb.com/version/tuto193.monokai-vibrant-operator.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/tuto193.monokai-vibrant-operator.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/tuto193.monokai-vibrant-operator.svg)](https://marketplace.visualstudio.com/items?itemName=tuto193.monokai-vibrant-operator)
 
 ![Monokai Vibrant C Example](https://hostr.co/file/970/bnfuo9IDAr8D/VSCODE.png)
 

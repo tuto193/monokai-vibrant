@@ -12,12 +12,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+        "url": "https://github.com/tuto193/monokai-vibrant"
     },
     "bugs": {
-        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+        "url": "https://github.com/tuto193/monokai-vibrant/issues"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "homepage": "https://github.com/tuto193/monokai-vibrant/blob/master/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
